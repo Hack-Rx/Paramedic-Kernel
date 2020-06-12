@@ -1,6 +1,6 @@
-# bajarx
+# bajajrx
 
-A new Flutter project.For Baja Health RX hackathon
+A new Flutter project.For Bajaj Health RX hackathon
 
 ## Getting Started
 
